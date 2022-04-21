@@ -13,8 +13,8 @@
         <br>
         <ul>
             <li><em>Po Leung Kuk Celine Ho Yam Tong College</em>(2014-2020)</li>
-            <li>BSc (Hons) Information Technology for Business, <em>Coventry University(</em>(2021-)</li>
-        </ul>>
+            <li>BSc (Hons) Information Technology for Business, <em>Coventry University</em>(2021-)</li>
+        </ul>
         <br>
     </div>
     <div id="work experience">
